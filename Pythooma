@@ -1,0 +1,2 @@
+print("Pythooma Made By CharlieBoy#7960")
+game.Players.LocalPlayer.PythoomaLoader:Destroy()
